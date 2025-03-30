@@ -1,7 +1,9 @@
-<h1>Hi 👋, I'm Inès!</h1>
-<p>A passionate Cloud & DevOps Engineering Student</p>
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=inesmrad11.inesmrad11" />
 
-<img align="right" alt="Cloud Computing GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N1d3Z5eGZ3cG1hZ2V1eWZ6dW1jZ2V4dGd0bGZ1Y2R2d2F6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans+bold&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+In%C3%A8s+Mrad" alt="Typing SVG" /></a>
+
+<p>A passionate Cloud & DevOps Engineering Student</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -33,8 +35,17 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 ## ℹ️ Examples workflows
-<!--/examples-->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=inesmrad11&show_icons=true&locale=en" alt="inesmrad11" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inesmrad11&" alt="inesmrad11" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=inesmrad11&show_icons=true&locale=en&layout=compact" alt="inesmrad11" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inesmrad11" alt="inesmrad11" /></a></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-inesmrad11.vercel.app/?user=inesmrad11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-inesmrad11.vercel.app/api?username=inesmrad11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-inesmrad11.vercel.app/api/top-langs/?username=inesmrad11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
