@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.png" alt="GitHub Banner" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=inesmrad11.inesmrad11" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans+bold&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+In%C3%A8s+Mrad" alt="Typing SVG" /></a>
