@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Inès!</h1>
 <p>A passionate Cloud & DevOps Engineering Student</p>
+<img align="right" alt="Cloud Computing GIF" src="[https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA5N3kzdTdnenRtMmdlNTRrb3Nzbjl4NGxlbGZrM2o5dmZtd2N1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)" width="300"/>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
