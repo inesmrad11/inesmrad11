@@ -1,9 +1,30 @@
-<img src="banner_github.png" alt="GitHub Banner" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=inesmrad11.inesmrad11" />
 
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans+bold&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+In%C3%A8s+Mrad" alt="Typing SVG" /></a>
+</h1>
+<br/>
+<div align="center">
+ 
+☁️ Currently studying **Cloud & DevOps Engineering**  
+🎓 Cloud Computing Enthusiast | AWS & Azure Certified  
+🎨 Passionate about **painting, design, and digital art**   
+🚀 Building my [creative portfolio website](#) *(coming soon!)* 
 
-<p>A passionate Cloud & DevOps Engineering Student</p>
+ </div>
+
+ <h2>🌐 Connect Me</h2>
+<div align="center"> 
+  <a href="mailto:ines.mrad@esprit.tn">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/inès-mrad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://inesmrad11.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -27,25 +48,16 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/inès-mrad" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inesmrad11/inesmrad11/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inesmrad11/inesmrad11/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-inesmrad11.vercel.app/?user=inesmrad11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-inesmrad11.vercel.app/api?username=inesmrad11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-inesmrad11.vercel.app/api/top-langs/?username=inesmrad11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=inesmrad11&show_icons=true&theme=radical)
 
-<hr/>
-
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inesmrad11&layout=compact)
