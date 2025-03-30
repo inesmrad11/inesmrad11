@@ -7,7 +7,7 @@
 <div align="center">
  
 ☁️ Currently studying **Cloud & DevOps Engineering**  
-🎓 Cloud Computing Enthusiast | AWS & Azure Certified  
+🎓 Cloud Computing & Data Science Enthusiast
 🎨 Passionate about **painting, design, and digital art**   
 🚀 Building my [creative portfolio website](#) *(coming soon!)* 
 
