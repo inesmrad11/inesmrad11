@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=inesmrad11.inesmrad11" />
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans+bold&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+In%C3%A8s+Mrad" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1598F7&center=true&width=435&lines=Hello+World+!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
 </h1>
 <br/>
 <div align="center">
