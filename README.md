@@ -13,7 +13,7 @@
 
  </div>
 
- <h2>🌐 Connect Me</h2>
+ <h2>🌐 Contact Me</h2>
 <div align="center"> 
   <a href="mailto:ines.mrad@esprit.tn">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
