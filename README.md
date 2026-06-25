@@ -123,5 +123,5 @@ Engineering Degree in Computer Science — Cloud Computing & IT Architecture
 
 📧 **Email:** [ines.mrad.ing@gmail.com](mailto:ines.mrad.ing@gmail.com) / [ines.mrad@esprit.tn](mailto:ines.mrad@esprit.tn)
 
-💼 **LinkedIn:** linkedin.com/in/ines-mrad
+💼 **LinkedIn:** www.linkedin.com/in/ines-mrad11
 
